@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 baseurl: "/zolan" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -34,6 +33,3 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-=======
-theme: jekyll-theme-minimal
->>>>>>> 3d4adbb833cd65906b9b3955010f48374bb1db5f
